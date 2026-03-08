@@ -1,0 +1,41 @@
+{
+  "name": "sugbo",
+  "version": "0.0.1",
+  "description": "Sugbo combines intuitive developer experience with sophisticated design, helping creators deliver striking, reliable, high-impact interfaces.",
+  "main": "min/sugbo.min.css",
+  "style": "min/sugbo.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sugbosuite/sugbo.git"
+  },
+  "keywords": [
+    "sugbo",
+    "css",
+    "ui",
+    "components",
+    "framework",
+    "library",
+    "design",
+    "responsive",
+    "expressive",
+    "developer-friendly",
+    "frontend",
+    "design-system",
+    "utility-first"
+  ],
+  "author": "Allen Charls Casul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sugbosuite/sugbo/issues"
+  },
+  "homepage": "https://github.com/sugbosuite/sugbo#readme",
+  "files": [
+    "min",
+    "utils",
+    "vars",
+    "LICENSE",
+    "README.md",
+    "sugbo.css",
+    "tokens.css"
+  ]
+}

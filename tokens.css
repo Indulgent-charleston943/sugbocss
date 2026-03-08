@@ -1,0 +1,38 @@
+/* VARIABLES: Core design tokens for consistent theming                       */
+/* 1. appearance.var.css → Color palettes, adaptive schemes, theme variables. */
+/* 2. icon.var.css       → Icon sizing, alignment, reusable icon tokens.      */
+/* 3. typography.var.css → Font families, scales, text hierarchy rules.       */
+/* 4. shadow.var.css     → Elevation presets, depth, shadow tokens.           */
+/* 5. radius.var.css     → Border radius presets for consistent rounding.     */
+@import "./vars/appearance.var.css";
+@import "./vars/icon.var.css";
+@import "./vars/typography.var.css";
+@import "./vars/shadow.var.css";
+@import "./vars/radius.var.css";
+
+/* UTILITIES: Reusable helpers for layout, spacing, typography, and more. */
+/* 6. animations.util.css  → Motion presets and keyframes.                */
+/* 7. appearance.util.css  → Visual tweaks and adaptive themes.           */
+/* 8. borders.util.css     → Border styles and widths.                    */
+/* 9. components.util.css  → Prebuilt utilities for buttons, cards, etc.  */
+/* 10. cursor.util.css     → Cursor styles and pointer helpers.           */
+/* 11. dimensions.util.css → Width, height, and sizing utilities.         */
+/* 12. global.util.css     → Base resets and framework-wide helpers.      */
+/* 13. layout.util.css     → Flexbox, grid, and structural layouts.       */
+/* 14. position.util.css   → Positioning helpers (absolute, relative…).   */
+/* 15. spacing.util.css    → Margin, padding, and gap utilities.          */
+/* 16. transforms.util.css → Scale, rotate, skew, transform utilities.    */
+/* 17. typography.util.css → Text alignment, weight, size, responsive.    */
+@import "./utils/animations.util.css";
+@import "./utils/appearance.util.css";
+@import "./utils/borders.util.css";
+@import "./utils/components.util.css";
+@import "./utils/cursor.util.css";
+@import "./utils/dimensions.util.css";
+@import "./utils/global.util.css";
+@import "./utils/layout.util.css";
+@import "./utils/position.util.css";
+@import "./utils/spacing.util.css";
+@import "./utils/stack.util.css";
+@import "./utils/transforms.util.css";
+@import "./utils/typography.util.css";
